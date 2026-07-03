@@ -213,7 +213,7 @@ and many more.
 
 - Detected objects with bounding boxes, labels, and confidence scores.
 
-![YOLO11 Object Detection](screenshot/object_detection.png)
+![YOLO11 Object Detection](screenshot/object_detect.png)
 
 ---
 
