@@ -213,7 +213,7 @@ and many more.
 
 - Detected objects with bounding boxes, labels, and confidence scores.
 
-> **Tip:** Add screenshots or GIFs of the detection results in this section to make your GitHub repository more attractive.
+![YOLO11 Object Detection](screenshot/object_detection.png)
 
 ---
 
